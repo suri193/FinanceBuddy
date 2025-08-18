@@ -19,6 +19,11 @@ target/
 *.iml
 *.ipr
 
+# Environment files
+.env
+financebuddy/.env
+
+
 ### NetBeans ###
 /nbproject/private/
 /nbbuild/
